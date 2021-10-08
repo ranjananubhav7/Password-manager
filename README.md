@@ -6,7 +6,7 @@
 <br />
 <p align="center">
 
-  <h3 align="center">WEATHER REPORT</h3>
+  <h3 align="center">PASSWORD MANAGER</h3>
 
   <p align="center">
     A python based application for creating and managing secure passwords. 
